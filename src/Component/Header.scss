@@ -1,0 +1,21 @@
+Header {
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: 0.1px solid grey;
+}
+
+.icon-list {
+  padding: 10px;
+}
+
+.profileIcon {
+  border-radius: 50%;
+  background-color: grey;
+  color: white;
+}
+
+.spacer {
+  margin-left: 10px;
+  margin-right: 10px;
+}

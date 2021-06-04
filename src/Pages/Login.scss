@@ -1,0 +1,32 @@
+.login-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.card {
+  margin-top: 20px;
+  width: 450px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  min-height: 50px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+Form {
+  margin: 25px;
+  width: 395px;
+}
+Button {
+  width: 100%;
+}
+Form.Group {
+  width: 250px;
+}

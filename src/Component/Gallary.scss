@@ -1,0 +1,16 @@
+.gallary {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.gallaryImage {
+  width: 30%;
+  height: 30%;
+  margin: 12px;
+}
+
+.gallaryImage:hover {
+  opacity: 0.7;
+  transform: scale(1.1);
+}
